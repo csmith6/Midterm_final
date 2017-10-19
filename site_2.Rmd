@@ -1,0 +1,13 @@
+---
+title: "Site_2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Chris Smith 
+#Midterm October 19, 2017 
+x <- 5
+y <- 6 
+x^2+y^2
